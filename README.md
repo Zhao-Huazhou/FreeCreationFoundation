@@ -1,2 +1,2 @@
 # FreeCreationFoundation
-Just for fun.
+## Fuck business
