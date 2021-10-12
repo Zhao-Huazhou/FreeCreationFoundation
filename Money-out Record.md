@@ -1,2 +1,2 @@
-### Money-in Record : 
-&emsp;Null.
+### 转入记录 : 
+&emsp;空.
