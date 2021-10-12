@@ -1,2 +1,1 @@
-# FreeCreationFoundation
-## Fuck business
+# Fuck business
